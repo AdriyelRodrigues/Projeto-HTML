@@ -1,2 +1,1 @@
-###Integrantes do Grupo:
-###João Pedro Rodriguez e Adriyel Rodrigues
+Integrantes do Grupo: João Pedro Rodriguez e Adriyel Rodrigues
